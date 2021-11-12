@@ -4,11 +4,12 @@ I am a fullstack JS developer. I am also interested in learning new frameworks o
 
 # Skills
 
-Javascript | Typescript | Angular | Ionic | Capacitor | NodeJS | Express JS | Babel | EsLint
-DB Lite | SQL Server | MySQL | MongoDB | Postgres | 
-Python | PHP | Visual Basic | AWS | S3 | SES
-ReactJS | Redux | NextJs | Jquery | Entity Framework | Sequelize | SocketsIO | Webpack | Rest API | Unit Testing | Mongoose |
-CSS | Sass | Less | Scss | Bootstrap | 
+Javascript | Stack MERN | Stack MEAN |
+Angular | React | Node | npm |
+MongoDB | SQL Server | MySQL | Postgres | DB Lite |
+Typescript | Ionic | Capacitor | Babel | ES Lint | Redux | NextJS | Jquery | Sequelize | Webpack | Express | mongoose |  GraphQL | Heroku |
+AWS SDK | AWS | S3 | SES |
+CSS | Sass | Less | Scss | Bootstrap |
 Linux Ubuntu | Windows | Kali Linux | Android | iOs | Apache |
-HTML | Adobe XD | Adobe Photoshop | Gimp | 
-Git | Github |
+HTML | Adobe XD | Adobe Photoshop | Gimp |
+Git & GitHub | Clean Code
